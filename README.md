@@ -2,8 +2,9 @@
 
 ## Instructions:
 
-Created Virtual environment
-    -python -m venv env
-install Packages
-    -requests
-    -pandas
+Created Virtual environment:
+python -m venv env
+
+installed Packages:
+requests
+pandas
