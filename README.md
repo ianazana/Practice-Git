@@ -1,10 +1,10 @@
 # First-Project
 
-## Instructions:
+## Instructions
 
-Created Virtual environment:
-python -m venv env
+Created Virtual environment.
+'python -m venv env'
 
-installed Packages:
-requests
-pandas
+installed Packages.
+requests.
+pandas.
