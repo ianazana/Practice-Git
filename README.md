@@ -1,4 +1,4 @@
-# First-Project
+# Practice-Git
 
 ## ✅ What I've Done So Far
 
